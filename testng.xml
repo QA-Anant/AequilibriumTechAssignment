@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Aequilibrium Tech Assignment">
+    <listeners>
+        <listener class-name="Reporting.TestListener"/>
+    </listeners>
+
+    <test name="Automation Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>

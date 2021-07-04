@@ -1,0 +1,8 @@
+{
+  "loginPage": {
+    "usernameMissingTxt": "Epic sadface: Username is required",
+    "passwordMissingTxt": "Epic sadface: Password is required",
+    "incorrectUsernameAndPasswordTxt" : "Epic sadface: Username and password do not match any user in this service",
+    "lockedOutUser": "Epic sadface: Sorry, this user has been locked out."
+  }
+}

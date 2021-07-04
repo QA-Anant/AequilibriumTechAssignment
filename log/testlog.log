@@ -1,0 +1,1195 @@
+2021-07-04 00:05:52,125 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:05:52,141 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:05:55,247 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:05:55,437 - Utilities.Log -INFO - Inserted username
+2021-07-04 00:05:55,542 - Utilities.Log -INFO - Inserted password
+2021-07-04 00:05:55,759 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 00:05:55,779 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page
+2021-07-04 00:07:41,455 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:07:41,474 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:07:43,874 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:07:44,132 - Utilities.Log -INFO - Inserted username
+2021-07-04 00:07:44,211 - Utilities.Log -INFO - Inserted password
+2021-07-04 00:07:44,289 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 00:07:44,294 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page
+2021-07-04 00:08:41,704 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 00:08:41,725 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 00:08:45,893 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:08:46,004 - Utilities.Log -INFO - Inserted username
+2021-07-04 00:08:46,034 - Utilities.Log -INFO - Inserted password
+2021-07-04 00:08:46,458 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 00:08:46,463 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page
+2021-07-04 00:12:04,578 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 00:12:04,595 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 00:12:08,102 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,104 - Utilities.Log -INFO -            Testcase Execution Started For Utilities.Log
+2021-07-04 00:12:08,104 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,104 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:12:08,104 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,105 - Utilities.Log -INFO -            TestCase Execution Completed For Utilities.Log
+2021-07-04 00:12:08,105 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,190 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,191 - Utilities.Log -INFO -            Testcase Execution Started For Utilities.Log
+2021-07-04 00:12:08,191 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,192 - Utilities.Log -INFO - Inserted username
+2021-07-04 00:12:08,192 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,193 - Utilities.Log -INFO -            TestCase Execution Completed For Utilities.Log
+2021-07-04 00:12:08,194 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,236 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,236 - Utilities.Log -INFO -            Testcase Execution Started For Utilities.Log
+2021-07-04 00:12:08,237 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,237 - Utilities.Log -INFO - Inserted password
+2021-07-04 00:12:08,237 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,237 - Utilities.Log -INFO -            TestCase Execution Completed For Utilities.Log
+2021-07-04 00:12:08,238 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,620 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,620 - Utilities.Log -INFO -            Testcase Execution Started For Utilities.Log
+2021-07-04 00:12:08,621 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,621 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 00:12:08,621 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,621 - Utilities.Log -INFO -            TestCase Execution Completed For Utilities.Log
+2021-07-04 00:12:08,621 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,625 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,625 - Utilities.Log -INFO -            Testcase Execution Started For Utilities.Log
+2021-07-04 00:12:08,625 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,626 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 00:12:08,626 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,626 - Utilities.Log -INFO -            TestCase Execution Completed For Utilities.Log
+2021-07-04 00:12:08,626 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,626 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,627 - Utilities.Log -INFO -            Testcase Execution Started For Utilities.Log
+2021-07-04 00:12:08,627 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,627 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 00:12:08,627 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:12:08,627 - Utilities.Log -INFO -            TestCase Execution Completed For Utilities.Log
+2021-07-04 00:12:08,627 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:15:10,202 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 00:15:10,220 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 00:15:13,999 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:15:14,008 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:15:14,010 - Utilities.Log -INFO -            Testcase Execution Started For Utilities.Log
+2021-07-04 00:15:14,010 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:15:14,104 - Utilities.Log -INFO - Inserted username
+2021-07-04 00:15:14,128 - Utilities.Log -INFO - Inserted password
+2021-07-04 00:15:14,537 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 00:15:14,541 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 00:15:14,541 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 00:15:14,544 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:15:14,544 - Utilities.Log -INFO -            TestCase Execution Completed For Utilities.Log
+2021-07-04 00:15:14,544 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:18:49,593 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 00:18:49,619 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 00:18:53,716 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:18:53,727 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:18:53,729 - Utilities.Log -INFO -            Testcase Execution Started For junit.framework.TestCase
+2021-07-04 00:18:53,729 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:18:53,817 - Utilities.Log -INFO - Inserted username
+2021-07-04 00:18:53,847 - Utilities.Log -INFO - Inserted password
+2021-07-04 00:18:54,225 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 00:18:54,231 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 00:18:54,231 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 00:18:54,234 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:18:54,235 - Utilities.Log -INFO -            TestCase Execution Completed For junit.framework.TestCase
+2021-07-04 00:18:54,235 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:21:24,847 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 00:21:24,865 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 00:21:28,598 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:21:28,610 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:21:28,611 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:21:28,612 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:21:28,712 - Utilities.Log -INFO - Inserted username
+2021-07-04 00:21:28,746 - Utilities.Log -INFO - Inserted password
+2021-07-04 00:21:29,168 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 00:21:29,175 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 00:21:29,175 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 00:21:29,177 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:21:29,178 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:21:29,178 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:30:52,785 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:30:52,803 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:30:55,601 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:30:55,611 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:30:55,613 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:30:55,613 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:30:55,631 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:30:55,633 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:30:55,634 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:30:55,634 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:31:08,943 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:31:08,970 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:31:11,022 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:31:11,032 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:31:11,065 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:31:11,137 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:31:11,159 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:31:11,171 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:31:11,172 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:31:11,172 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:31:40,258 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:31:40,273 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:31:42,558 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:31:42,569 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:31:42,601 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:31:42,601 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:31:47,619 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:31:47,622 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:31:47,623 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:31:47,623 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:02,178 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:34:02,202 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:34:04,528 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:34:04,538 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:04,631 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:34:04,671 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:04,692 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:34:04,749 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:04,750 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:34:04,751 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:25,800 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:34:25,822 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:34:28,210 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:34:28,220 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:28,282 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:34:28,306 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:28,327 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:34:28,334 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:28,387 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:34:28,388 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:38,560 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:34:38,581 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:34:40,555 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:34:40,569 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:40,592 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:34:40,592 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:40,618 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:34:40,690 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:34:40,690 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:34:40,690 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:17,664 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:35:17,686 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:35:20,096 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:35:20,114 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:20,165 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:35:20,223 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:20,244 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:35:20,253 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:20,277 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:35:20,278 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:49,613 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 00:35:49,633 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 00:35:51,917 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:35:51,929 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:51,957 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:35:52,007 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:52,071 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:35:52,107 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:52,108 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:35:52,108 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:35:59,109 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 00:35:59,127 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 00:36:03,078 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:36:03,087 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:36:03,090 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:36:03,090 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:36:03,110 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:36:03,113 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:36:03,113 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:36:03,114 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:39:53,588 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 00:39:53,606 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 00:39:57,429 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:39:57,440 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:39:57,443 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:39:57,443 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:39:57,462 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 00:39:57,465 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:39:57,466 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:39:57,466 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:56:23,076 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 00:56:23,101 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 00:56:27,981 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 00:56:27,993 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:56:27,995 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 00:56:27,995 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:56:28,073 - Utilities.Log -INFO - Inserted username
+2021-07-04 00:56:28,307 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 00:56:28,340 - Utilities.Log -INFO - Username error message is displayed
+2021-07-04 00:56:28,342 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 00:56:28,343 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 00:56:28,343 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:01:54,874 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 01:01:54,891 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 01:01:58,772 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:01:58,782 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:01:58,784 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:01:58,784 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:01:59,070 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 01:01:59,103 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:01:59,104 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:01:59,104 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:06:03,912 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 01:06:03,932 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 01:06:07,586 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:06:07,596 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:06:07,598 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:06:07,598 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:06:07,866 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 01:06:07,909 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:06:07,909 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:06:07,909 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:06:57,015 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 01:06:57,031 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 01:07:01,291 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:07:01,302 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:07:01,304 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:07:01,304 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:07:01,369 - Utilities.Log -INFO - Inserted dummy username
+2021-07-04 01:07:01,401 - Utilities.Log -INFO - Inserted dummy password
+2021-07-04 01:07:01,636 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 01:07:01,681 - Utilities.Log -INFO - Username or Password doesn't match error message is displayed
+2021-07-04 01:07:01,684 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:07:01,684 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:07:01,684 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:08:33,883 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 01:08:33,905 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 01:08:36,600 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:08:36,610 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:08:36,695 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:08:36,718 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:08:36,889 - Utilities.Log -INFO - Inserted username
+2021-07-04 01:08:36,940 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 01:08:36,964 - Utilities.Log -INFO - No Password provided error message is displayed
+2021-07-04 01:08:36,966 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:08:36,967 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:08:36,967 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:12:20,273 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 01:12:20,291 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 01:12:22,534 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:12:22,545 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:12:22,597 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:12:22,648 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:12:22,819 - Utilities.Log -INFO - Inserted username
+2021-07-04 01:12:22,890 - Utilities.Log -INFO - Inserted password
+2021-07-04 01:12:22,946 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 01:12:22,951 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 01:12:22,951 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 01:12:22,953 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:12:22,954 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:12:22,954 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:21:24,515 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 01:21:24,538 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 01:21:27,036 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:21:27,049 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:21:27,102 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:21:27,155 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:21:27,352 - Utilities.Log -INFO - Inserted username
+2021-07-04 01:21:27,431 - Utilities.Log -INFO - Inserted password
+2021-07-04 01:21:27,489 - Utilities.Log -INFO - Clicking the login button
+2021-07-04 01:21:32,689 - Utilities.Log -INFO - Locked Out user is not allowed to login
+2021-07-04 01:21:32,692 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:21:32,692 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:21:32,692 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:45:29,393 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 01:45:29,424 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 01:45:33,572 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:45:33,593 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:45:33,596 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:45:33,596 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:45:33,647 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 01:45:33,670 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (faf3e5fc274a038d7ab5aace5d19991e)] -> id: password]
+2021-07-04 01:45:33,809 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (faf3e5fc274a038d7ab5aace5d19991e)] -> id: login-button]
+2021-07-04 01:45:33,884 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 01:45:33,896 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (faf3e5fc274a038d7ab5aace5d19991e)] -> id: user-name]
+2021-07-04 01:45:34,015 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (faf3e5fc274a038d7ab5aace5d19991e)] -> id: login-button]
+2021-07-04 01:45:54,191 - Utilities.Log -INFO - Entering username dummyUser into Proxy element for: DefaultElementLocator 'By.id: user-name'
+2021-07-04 01:46:14,236 - Utilities.Log -INFO - Entering username standard_user into Proxy element for: DefaultElementLocator 'By.id: user-name'
+2021-07-04 01:46:34,302 - Utilities.Log -INFO - Entering username locked_out_user into Proxy element for: DefaultElementLocator 'By.id: user-name'
+2021-07-04 01:46:44,334 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:46:44,335 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:46:44,335 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:48:11,540 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 01:48:11,560 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 01:48:14,037 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:48:14,049 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:48:14,099 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:48:14,150 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:48:14,246 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 01:48:14,280 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (6da1b01ad3a25af6da4a0844a2d6f3ab)] -> id: password]
+2021-07-04 01:48:14,422 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (6da1b01ad3a25af6da4a0844a2d6f3ab)] -> id: login-button]
+2021-07-04 01:48:14,486 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 01:48:14,497 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (6da1b01ad3a25af6da4a0844a2d6f3ab)] -> id: user-name]
+2021-07-04 01:48:14,594 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (6da1b01ad3a25af6da4a0844a2d6f3ab)] -> id: login-button]
+2021-07-04 01:48:34,733 - Utilities.Log -INFO - Entering username dummyUser into Proxy element for: DefaultElementLocator 'By.id: user-name'
+2021-07-04 01:48:44,284 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:48:44,284 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:48:44,284 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:47,704 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 01:53:47,724 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 01:53:51,770 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 01:53:51,784 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:51,866 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 01:53:51,890 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:51,947 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 01:53:51,963 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:51,964 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:53:51,964 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,259 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,259 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:53:52,260 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,267 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,267 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:53:52,267 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,275 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,275 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:53:52,276 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,282 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,283 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:53:52,283 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,290 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 01:53:52,291 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 01:53:52,291 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:02:04,660 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:02:04,675 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:02:08,161 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:02:08,171 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:02:08,396 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:02:08,479 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:02:08,513 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:02:08,534 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (2dc56cdbae9bfd35abf7539118910762)] -> id: password]
+2021-07-04 02:02:08,701 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (2dc56cdbae9bfd35abf7539118910762)] -> id: login-button]
+2021-07-04 02:02:08,774 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 02:02:08,786 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (2dc56cdbae9bfd35abf7539118910762)] -> id: user-name]
+2021-07-04 02:02:08,880 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (2dc56cdbae9bfd35abf7539118910762)] -> id: login-button]
+2021-07-04 02:02:40,193 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:02:40,211 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:02:42,539 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:02:42,540 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:02:42,542 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:02:42,542 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:02:42,580 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:02:42,687 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: password]
+2021-07-04 02:02:42,862 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: login-button]
+2021-07-04 02:02:42,941 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 02:02:42,971 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: user-name]
+2021-07-04 02:02:43,064 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: login-button]
+2021-07-04 02:03:01,628 - Utilities.Log -INFO - Entering username dummyUser into [[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: user-name]
+2021-07-04 02:03:01,709 - Utilities.Log -INFO - Entering password dummyPassword into [[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: password]
+2021-07-04 02:03:01,771 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: login-button]
+2021-07-04 02:03:01,835 - Utilities.Log -INFO - Username or Password doesn't match error message is displayed
+2021-07-04 02:03:01,860 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: user-name]
+2021-07-04 02:03:01,934 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: password]
+2021-07-04 02:03:01,995 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: login-button]
+2021-07-04 02:03:02,029 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 02:03:02,029 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 02:03:02,038 - Utilities.Log -INFO - Entering username locked_out_user into [[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: user-name]
+2021-07-04 02:03:02,105 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: password]
+2021-07-04 02:03:02,156 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (84339797e9abdb39ca74d97c14a191a2)] -> id: login-button]
+2021-07-04 02:03:22,328 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:03:22,329 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:03:22,329 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:08:20,111 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:08:20,134 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:08:22,651 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:08:22,662 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:08:22,764 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:08:22,785 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:08:22,820 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:08:22,889 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (238d9ef35b558cdb94ebe74ff5a0b304)] -> id: password]
+2021-07-04 02:08:23,062 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (238d9ef35b558cdb94ebe74ff5a0b304)] -> id: login-button]
+2021-07-04 02:08:23,130 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 02:08:23,141 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (238d9ef35b558cdb94ebe74ff5a0b304)] -> id: user-name]
+2021-07-04 02:08:23,243 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (238d9ef35b558cdb94ebe74ff5a0b304)] -> id: login-button]
+2021-07-04 02:08:39,477 - Utilities.Log -INFO - Entering username dummyUser into Proxy element for: DefaultElementLocator 'By.id: user-name'
+2021-07-04 02:08:39,496 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:08:39,497 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:08:39,497 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:11:10,115 - Utilities.Log -ERROR - Incorrect Browser Name. Please provide a valid browser
+2021-07-04 02:11:26,993 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 02:11:27,008 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 02:11:31,290 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:11:31,300 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:11:31,303 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:11:31,304 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:11:31,342 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:11:31,366 - Utilities.Log -INFO - Entering password secret_sauce into [[FirefoxDriver: firefox on MAC (17f57e75-46f4-9b42-8809-f6e145e3383d)] -> id: password]
+2021-07-04 02:11:31,426 - Utilities.Log -INFO - Tap on button[[FirefoxDriver: firefox on MAC (17f57e75-46f4-9b42-8809-f6e145e3383d)] -> id: login-button]
+2021-07-04 02:11:31,696 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 02:11:42,829 - Utilities.Log -INFO - Entering username standard_user into [[FirefoxDriver: firefox on MAC (17f57e75-46f4-9b42-8809-f6e145e3383d)] -> id: user-name]
+2021-07-04 02:11:42,900 - Utilities.Log -INFO - Tap on button[[FirefoxDriver: firefox on MAC (17f57e75-46f4-9b42-8809-f6e145e3383d)] -> id: login-button]
+2021-07-04 02:17:02,104 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:17:02,119 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:17:05,921 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:17:05,932 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:05,934 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:17:05,934 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:05,968 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:17:05,969 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:05,970 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:05,970 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,133 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,133 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:06,133 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,140 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,140 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:06,141 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,147 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,147 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:06,148 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,154 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,154 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:06,154 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,160 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:06,161 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:06,161 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:35,647 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:17:35,664 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:17:37,919 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:17:37,920 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:37,922 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:17:37,922 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:37,962 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:17:38,033 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:38,034 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:38,034 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:38,230 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:17:38,234 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:17:39,936 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:17:39,936 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:39,937 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:17:39,937 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:39,966 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:39,997 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:40,049 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:40,179 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:17:40,183 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:17:41,814 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:17:41,814 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:41,814 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:17:41,814 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:41,821 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:41,822 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:41,822 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:42,002 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:17:42,006 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:17:43,744 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:17:43,744 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:43,744 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:17:43,745 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:43,752 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:43,752 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:43,753 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:43,936 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:17:43,938 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:17:45,520 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:17:45,520 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:45,521 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:17:45,521 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:45,527 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:45,527 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:45,527 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:45,658 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:17:45,662 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:17:47,320 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:17:47,320 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:47,320 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:17:47,320 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:47,326 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:17:47,327 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:17:47,327 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:18:39,084 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:18:39,100 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:18:41,298 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:18:41,299 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:18:41,301 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:18:41,301 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:18:41,344 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (8c61683593c8f379f09695424c500ce6)] -> id: password]
+2021-07-04 02:18:41,515 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (8c61683593c8f379f09695424c500ce6)] -> id: login-button]
+2021-07-04 02:18:41,594 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 02:18:41,595 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:18:41,596 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:18:41,596 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:18:53,080 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:18:53,099 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:18:55,231 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:18:55,232 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:18:55,235 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:18:55,235 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:18:55,280 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (0ad2ca08c3b75330b05073c970e8ce01)] -> id: user-name]
+2021-07-04 02:18:55,487 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (0ad2ca08c3b75330b05073c970e8ce01)] -> id: login-button]
+2021-07-04 02:18:55,572 - Utilities.Log -INFO - No Password provided error message is displayed
+2021-07-04 02:18:55,574 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:18:55,575 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:18:55,575 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:52,118 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:23:52,135 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:23:54,407 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:23:54,407 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:54,409 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:23:54,410 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:54,442 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:23:54,512 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:54,536 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:23:54,627 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:54,774 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:23:54,780 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:23:56,427 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:23:56,428 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:56,428 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:23:56,428 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:56,458 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:56,472 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:23:56,477 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:56,666 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:23:56,670 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:23:58,310 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:23:58,310 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:58,311 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:23:58,311 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:58,318 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:23:58,319 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:23:58,319 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:35,199 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:24:35,213 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:24:37,272 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:24:37,273 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:37,274 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:24:37,275 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:37,304 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:24:37,362 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:37,404 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:24:37,404 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:37,547 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:24:37,561 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:24:39,213 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:24:39,213 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:39,214 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:24:39,214 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:39,250 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:39,303 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:24:39,330 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:39,513 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:24:39,517 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:24:41,162 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:24:41,162 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:41,163 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:24:41,163 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:41,169 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:24:41,169 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:24:41,169 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:32,433 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:26:32,449 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:26:34,629 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:26:34,630 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:34,632 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:26:34,633 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:34,668 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:26:34,745 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:34,746 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:26:34,746 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:34,901 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:26:34,905 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:26:37,157 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:26:37,158 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:37,158 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:26:37,159 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:37,215 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:37,302 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:26:37,302 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:37,482 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:26:37,489 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:26:39,946 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:26:39,946 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:39,947 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:26:39,947 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:39,963 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:26:40,038 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:26:40,103 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:10,710 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:27:10,743 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:27:14,540 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:27:14,542 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:14,545 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:27:14,546 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:14,604 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:27:14,610 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:14,612 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:27:14,619 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:14,848 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:27:14,855 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:27:17,184 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:27:17,184 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:17,185 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:27:17,185 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:17,338 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:17,353 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:27:17,354 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:17,547 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:27:17,553 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:27:19,928 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:27:19,928 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:19,929 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:27:19,929 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:20,038 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:20,069 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:27:20,070 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:46,292 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:27:46,321 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:27:49,315 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:27:49,316 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:49,320 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:27:49,320 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:49,365 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:27:49,410 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:49,434 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:27:49,435 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:49,624 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:27:49,633 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:27:51,914 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:27:51,915 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:51,915 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:27:51,915 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:56,959 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:56,959 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:27:56,959 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:57,134 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:27:57,146 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:27:59,613 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:27:59,613 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:27:59,614 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:27:59,614 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:28:04,624 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:28:04,626 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:28:04,626 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:28:34,368 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:28:34,398 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:28:37,779 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:28:37,780 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:28:37,784 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:28:37,784 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:28:42,835 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (7f7ce06130e6c983073b1229e70e8f2b)] -> id: password]
+2021-07-04 02:28:43,099 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (7f7ce06130e6c983073b1229e70e8f2b)] -> id: login-button]
+2021-07-04 02:28:43,336 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 02:28:43,339 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:28:43,340 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:28:43,340 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:30:43,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:30:43,620 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:30:47,103 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:30:47,105 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:30:47,108 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:30:47,109 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:30:47,165 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (663be031fe0dbd4346834356eceba084)] -> id: password]
+2021-07-04 02:30:47,538 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (663be031fe0dbd4346834356eceba084)] -> id: login-button]
+2021-07-04 02:30:47,781 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 02:30:47,784 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:30:47,785 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:30:47,785 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:27,895 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:31:27,927 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:31:31,435 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:31:31,436 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:31,440 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:31:31,441 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:31,484 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:31:31,567 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:31,568 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:31:31,569 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:31,768 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:31:31,777 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:31:34,048 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:31:34,049 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:34,049 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:31:34,049 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:34,098 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:34,172 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:31:34,173 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:34,351 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:31:34,358 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:31:36,661 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:31:36,661 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:36,661 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:31:36,662 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:36,674 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:36,677 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:31:36,746 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:51,321 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:31:51,348 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:31:54,232 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:31:54,233 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:54,236 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:31:54,237 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:54,282 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:31:54,332 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:54,333 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:31:54,333 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:54,528 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:31:54,536 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:31:56,756 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:31:56,756 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:56,756 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:31:56,757 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:56,807 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:56,818 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:31:56,819 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:57,046 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:31:57,052 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:31:59,473 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:31:59,474 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:59,474 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:31:59,474 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:59,485 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:31:59,486 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:31:59,486 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:04,189 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:33:04,217 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:33:07,646 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:33:07,648 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:07,651 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:33:07,652 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:07,697 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:33:07,768 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:07,820 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:33:07,820 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:08,016 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:33:08,023 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:33:10,204 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:33:10,204 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:10,204 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:33:10,205 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:11,251 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:11,251 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:33:11,252 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:11,439 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:33:11,448 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:33:13,861 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:33:13,862 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:13,862 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:33:13,862 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:14,872 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:14,874 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:33:14,874 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:28,472 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:33:28,501 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:33:31,372 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:33:31,373 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:31,377 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:33:31,377 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:31,420 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:33:31,467 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:31,512 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:33:31,512 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:31,706 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:33:31,715 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:33:34,019 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:33:34,019 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:34,020 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:33:34,020 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:36,070 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:36,071 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:33:36,072 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:36,264 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:33:36,271 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:33:38,760 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:33:38,761 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:38,761 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:33:38,761 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:40,775 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:40,777 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:33:40,777 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:54,445 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:33:54,471 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:33:57,430 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:33:57,431 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:57,436 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:33:57,436 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:57,480 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 02:33:57,529 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:57,530 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:33:57,530 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:33:57,699 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:33:57,706 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:34:00,015 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:34:00,015 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:34:00,016 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:34:00,016 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:34:05,064 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:34:05,065 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:34:05,065 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:34:05,237 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 02:34:05,246 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 02:34:07,754 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 02:34:07,769 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:34:07,769 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 02:34:07,769 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:34:12,823 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 02:34:12,824 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 02:34:12,825 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 13:53:14,828 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 13:53:14,852 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 13:53:18,050 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 13:53:18,051 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 13:53:18,053 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 13:53:18,054 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 13:53:18,116 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (392cfeb949709db5553c78e8de417275)] -> id: user-name]
+2021-07-04 13:53:18,382 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (392cfeb949709db5553c78e8de417275)] -> id: password]
+2021-07-04 13:53:18,508 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (392cfeb949709db5553c78e8de417275)] -> id: login-button]
+2021-07-04 13:53:18,761 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 13:53:18,762 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 13:53:18,927 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 13:53:18,928 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 13:53:18,928 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:02:05,733 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 14:02:05,752 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 14:02:08,365 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 14:02:08,366 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:02:08,368 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 14:02:08,368 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:02:08,412 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (708d26597c1e8d6285d42da1b2ff4a78)] -> id: user-name]
+2021-07-04 14:02:08,778 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (708d26597c1e8d6285d42da1b2ff4a78)] -> id: password]
+2021-07-04 14:02:08,936 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (708d26597c1e8d6285d42da1b2ff4a78)] -> id: login-button]
+2021-07-04 14:02:09,153 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 14:02:09,154 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 14:02:09,786 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:02:09,786 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 14:02:09,786 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:02:16,372 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 14:02:16,394 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 14:02:18,549 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 14:02:18,551 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:02:18,553 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 14:02:18,553 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:02:18,592 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (dbc559c7fd70979b95b7baee66f04c81)] -> id: user-name]
+2021-07-04 14:02:18,923 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (dbc559c7fd70979b95b7baee66f04c81)] -> id: password]
+2021-07-04 14:02:19,052 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (dbc559c7fd70979b95b7baee66f04c81)] -> id: login-button]
+2021-07-04 14:02:19,233 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 14:02:19,233 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 14:02:19,858 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:02:19,858 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 14:02:19,858 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:04:20,358 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 14:04:20,374 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 14:04:23,005 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 14:04:23,006 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:04:23,008 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 14:04:23,009 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:04:23,063 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (375bfe994e63da0598a28ed1db28bebe)] -> id: user-name]
+2021-07-04 14:04:23,363 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (375bfe994e63da0598a28ed1db28bebe)] -> id: password]
+2021-07-04 14:04:23,501 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (375bfe994e63da0598a28ed1db28bebe)] -> id: login-button]
+2021-07-04 14:04:23,880 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 14:04:23,989 - Utilities.Log -INFO - User is logging out
+2021-07-04 14:04:24,038 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 14:04:24,039 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 14:04:24,041 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:04:24,041 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 14:04:24,041 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:33:17,498 - Utilities.Log -ERROR - Incorrect Browser Name. Please provide a valid browser
+2021-07-04 14:37:26,920 - Utilities.Log -ERROR - Incorrect Browser Name. Please provide a valid browser
+2021-07-04 14:40:26,405 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 14:40:26,427 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 14:40:30,464 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 14:40:30,465 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:40:30,467 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 14:40:30,468 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:40:30,508 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (562d36f2ca3b34d7f53aef743600a054)] -> id: user-name]
+2021-07-04 14:40:30,714 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (562d36f2ca3b34d7f53aef743600a054)] -> id: password]
+2021-07-04 14:40:30,853 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (562d36f2ca3b34d7f53aef743600a054)] -> id: login-button]
+2021-07-04 14:40:31,007 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 14:40:41,550 - Utilities.Log -INFO - User is logging out
+2021-07-04 14:40:41,599 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 14:40:41,599 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 14:40:41,601 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:40:41,602 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 14:40:41,602 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:41:18,117 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 14:41:18,132 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 14:41:22,161 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 14:41:22,162 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:41:22,165 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 14:41:22,165 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:41:22,199 - Utilities.Log -INFO - Entering username standard_user into [[FirefoxDriver: firefox on MAC (a1ac58b3-4982-9b44-bdf4-06994020b42f)] -> id: user-name]
+2021-07-04 14:41:22,559 - Utilities.Log -INFO - Entering password secret_sauce into [[FirefoxDriver: firefox on MAC (a1ac58b3-4982-9b44-bdf4-06994020b42f)] -> id: password]
+2021-07-04 14:41:22,850 - Utilities.Log -INFO - Tap on button[[FirefoxDriver: firefox on MAC (a1ac58b3-4982-9b44-bdf4-06994020b42f)] -> id: login-button]
+2021-07-04 14:41:23,334 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 14:41:23,576 - Utilities.Log -INFO - User is logging out
+2021-07-04 14:41:23,804 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 14:41:23,805 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 14:41:23,806 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 14:41:23,807 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 14:41:23,807 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:07:52,624 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 18:07:52,646 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 18:07:57,388 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 18:07:57,616 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:07:57,618 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 18:07:57,619 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:07:57,658 - Utilities.Log -INFO - Entering username standard_user into [[FirefoxDriver: firefox on MAC (a6ba6b60-4f45-9644-b123-731b6afdb0c0)] -> id: user-name]
+2021-07-04 18:07:57,999 - Utilities.Log -INFO - Entering password secret_sauce into [[FirefoxDriver: firefox on MAC (a6ba6b60-4f45-9644-b123-731b6afdb0c0)] -> id: password]
+2021-07-04 18:07:58,288 - Utilities.Log -INFO - Tap on button[[FirefoxDriver: firefox on MAC (a6ba6b60-4f45-9644-b123-731b6afdb0c0)] -> id: login-button]
+2021-07-04 18:07:58,858 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 18:07:59,106 - Utilities.Log -INFO - User is logging out
+2021-07-04 18:07:59,334 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 18:07:59,334 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 18:07:59,336 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:07:59,337 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 18:07:59,337 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:08:32,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 18:08:32,095 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 18:08:37,318 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 18:08:42,218 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:08:42,220 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 18:08:42,220 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:08:42,262 - Utilities.Log -INFO - Entering username standard_user into [[FirefoxDriver: firefox on MAC (3ae87662-b4f1-824b-bbc0-6f5afa1408c3)] -> id: user-name]
+2021-07-04 18:08:42,593 - Utilities.Log -INFO - Entering password secret_sauce into [[FirefoxDriver: firefox on MAC (3ae87662-b4f1-824b-bbc0-6f5afa1408c3)] -> id: password]
+2021-07-04 18:08:43,383 - Utilities.Log -INFO - Tap on button[[FirefoxDriver: firefox on MAC (3ae87662-b4f1-824b-bbc0-6f5afa1408c3)] -> id: login-button]
+2021-07-04 18:08:43,906 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 18:08:54,663 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:08:54,664 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 18:08:54,664 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:22:49,758 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 18:22:49,785 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 18:22:54,745 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 18:22:54,982 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:22:54,985 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 18:22:54,985 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:22:55,021 - Utilities.Log -INFO - Entering username standard_user into [[FirefoxDriver: firefox on MAC (73cfe10e-328e-8d4e-99ac-fe22400ccf98)] -> id: user-name]
+2021-07-04 18:22:55,376 - Utilities.Log -INFO - Entering password secret_sauce into [[FirefoxDriver: firefox on MAC (73cfe10e-328e-8d4e-99ac-fe22400ccf98)] -> id: password]
+2021-07-04 18:22:55,667 - Utilities.Log -INFO - Tap on button[[FirefoxDriver: firefox on MAC (73cfe10e-328e-8d4e-99ac-fe22400ccf98)] -> id: login-button]
+2021-07-04 18:22:56,167 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 18:22:56,417 - Utilities.Log -INFO - User is logging out
+2021-07-04 18:22:56,647 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 18:22:56,647 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 18:22:56,649 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:22:56,649 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 18:22:56,649 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:32:27,139 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+2021-07-04 18:32:27,153 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as /Users/anantjain/.cache/selenium/geckodriver/mac64/0.29.0/geckodriver
+2021-07-04 18:32:31,245 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 18:32:31,496 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:32:31,499 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 18:32:31,499 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:32:31,535 - Utilities.Log -INFO - Entering username standard_user into [[FirefoxDriver: firefox on MAC (3d8e9eaa-6fae-2540-a249-8bd9f8d2d7bb)] -> id: user-name]
+2021-07-04 18:32:32,125 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:32:32,125 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 18:32:32,125 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:33:31,386 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 18:33:31,401 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 18:33:34,156 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 18:33:34,353 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:33:34,355 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 18:33:34,355 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:33:34,397 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (60554a553ae78b544ec41e4fc98142c3)] -> id: user-name]
+2021-07-04 18:33:35,092 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:33:35,093 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 18:33:35,093 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:34:47,629 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 18:34:47,650 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 18:34:50,173 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 18:34:50,181 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:34:50,183 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 18:34:50,183 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:34:50,472 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (e3126586515b8bc7da6b369467d37825)] -> id: user-name]
+2021-07-04 18:34:51,275 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:34:51,276 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 18:34:51,276 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:59:26,869 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 18:59:26,886 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 18:59:30,378 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 18:59:30,642 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:59:30,645 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 18:59:30,645 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:59:30,647 - Utilities.Log -INFO - Testcase: Verify that standard user is able to login into the site successfully
+2021-07-04 18:59:30,700 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (c353494d5682aedbc41e4fd86c1dea88)] -> id: user-name]
+2021-07-04 18:59:31,371 - Utilities.Log -INFO - Testcase for Verify that standard user is able to login into the site successfully failed.
+2021-07-04 18:59:31,372 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 18:59:31,372 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 18:59:31,373 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:00:00,148 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 19:00:00,165 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 19:00:02,478 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 19:00:02,671 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:00:02,673 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:00:02,674 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:00:02,675 - Utilities.Log -INFO - Testcase: Verify that standard user is able to login into the site successfully
+2021-07-04 19:00:02,719 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (a0015bd15cc1c01f87349f353f9aea42)] -> id: user-name]
+2021-07-04 19:00:02,953 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (a0015bd15cc1c01f87349f353f9aea42)] -> id: password]
+2021-07-04 19:00:03,114 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (a0015bd15cc1c01f87349f353f9aea42)] -> id: login-button]
+2021-07-04 19:00:03,363 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 19:00:03,968 - Utilities.Log -INFO - User is logging out
+2021-07-04 19:00:04,018 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 19:00:04,018 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 19:00:04,023 - Utilities.Log -INFO - Testcase Verify that standard user is able to login into the site successfully passed
+2021-07-04 19:00:04,442 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:00:04,443 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:00:04,443 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:02:25,276 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 19:02:25,292 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 19:02:27,667 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 19:02:27,955 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:02:27,957 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:02:27,958 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:02:27,960 - Utilities.Log -INFO - Testcase: Verify that standard user is able to login into the site successfully
+2021-07-04 19:02:27,995 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (bba572dfe099524ec0b3cff7d7bfcc45)] -> id: user-name]
+2021-07-04 19:02:28,252 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (bba572dfe099524ec0b3cff7d7bfcc45)] -> id: password]
+2021-07-04 19:02:28,391 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (bba572dfe099524ec0b3cff7d7bfcc45)] -> id: login-button]
+2021-07-04 19:02:28,773 - Utilities.Log -INFO - User is able to login Successfully and has landed on the Home page.
+2021-07-04 19:02:29,396 - Utilities.Log -INFO - User is logging out
+2021-07-04 19:02:29,438 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 19:02:29,438 - Utilities.Log -INFO - Login Test Passed
+2021-07-04 19:02:29,442 - Utilities.Log -INFO - Testcase Verify that standard user is able to login into the site successfully passed
+2021-07-04 19:02:29,863 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:02:29,864 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:02:29,864 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:04,541 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 19:50:04,562 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 19:50:07,141 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 19:50:07,420 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:07,453 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:50:07,454 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:07,455 - Utilities.Log -INFO - Testcase: Verify the homePage of site
+2021-07-04 19:50:07,480 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 19:50:07,484 - Utilities.Log -INFO - Testcase Verify the homePage of site passed
+2021-07-04 19:50:07,919 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:07,919 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:50:07,919 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:08,045 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:08,045 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:50:08,046 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:08,047 - Utilities.Log -INFO - Testcase: Verify the validation message for no username input
+2021-07-04 19:50:13,075 - Utilities.Log -INFO - Testcase for Verify the validation message for no username input failed.
+2021-07-04 19:50:13,082 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,082 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:50:13,083 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,090 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,090 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:50:13,091 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,092 - Utilities.Log -INFO - Testcase: Verify the validation message for no password input
+2021-07-04 19:50:13,096 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,096 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:50:13,096 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,103 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,103 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:50:13,103 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,103 - Utilities.Log -INFO - Testcase: Verify the validation message for invalid username and password input
+2021-07-04 19:50:13,107 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,107 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:50:13,107 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,113 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,114 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:50:13,114 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,115 - Utilities.Log -INFO - Testcase: Verify that standard user is able to login into the site successfully
+2021-07-04 19:50:13,118 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,118 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:50:13,119 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,125 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,125 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:50:13,125 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,126 - Utilities.Log -INFO - Testcase: Verify that Locked Out user is not able to login into the site successfully
+2021-07-04 19:50:13,129 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:50:13,130 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:50:13,130 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:04,081 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 19:53:04,110 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 19:53:07,301 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 19:53:07,668 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:07,670 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:53:07,670 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:07,671 - Utilities.Log -INFO - Testcase: Verify the homePage of site
+2021-07-04 19:53:07,719 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 19:53:07,739 - Utilities.Log -INFO - Testcase Verify the homePage of site passed
+2021-07-04 19:53:08,258 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:08,259 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:53:08,259 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:08,263 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:08,264 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:53:08,264 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:08,264 - Utilities.Log -INFO - Testcase: Verify the validation message for no username input
+2021-07-04 19:53:13,287 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: password]
+2021-07-04 19:53:13,527 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: login-button]
+2021-07-04 19:53:13,690 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 19:53:13,691 - Utilities.Log -INFO - Testcase Verify the validation message for no username input passed
+2021-07-04 19:53:14,078 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:14,078 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:53:14,078 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:14,079 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:14,080 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:53:14,080 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:14,080 - Utilities.Log -INFO - Testcase: Verify the validation message for no password input
+2021-07-04 19:53:19,097 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: user-name]
+2021-07-04 19:53:19,256 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: login-button]
+2021-07-04 19:53:39,623 - Utilities.Log -INFO - Testcase for Verify the validation message for no password input failed.
+2021-07-04 19:53:41,055 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:41,055 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:53:41,055 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:41,057 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:41,057 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:53:41,057 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:41,058 - Utilities.Log -INFO - Testcase: Verify the validation message for invalid username and password input
+2021-07-04 19:53:49,489 - Utilities.Log -INFO - Entering username dummyUser into [[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: user-name]
+2021-07-04 19:53:49,660 - Utilities.Log -INFO - Entering password dummyPassword into [[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: password]
+2021-07-04 19:53:49,812 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: login-button]
+2021-07-04 19:53:49,961 - Utilities.Log -INFO - Username or Password doesn't match error message is displayed
+2021-07-04 19:53:49,962 - Utilities.Log -INFO - Testcase Verify the validation message for invalid username and password input passed
+2021-07-04 19:53:50,371 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:50,372 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:53:50,372 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:50,374 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:50,374 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 19:53:50,374 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:53:50,374 - Utilities.Log -INFO - Testcase: Verify that standard user is able to login into the site successfully
+2021-07-04 19:53:50,381 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: user-name]
+2021-07-04 19:53:50,517 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: password]
+2021-07-04 19:53:50,652 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (ae0a93ff4359af8452f35d85a94e3beb)] -> id: login-button]
+2021-07-04 19:54:06,415 - Utilities.Log -INFO - Testcase for Verify that standard user is able to login into the site successfully failed.
+2021-07-04 19:54:06,424 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:54:06,424 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 19:54:06,425 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:54:06,426 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 19:54:06,426 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 20:01:14,128 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-04 20:01:14,160 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/anantjain/.cache/selenium/chromedriver/mac64/91.0.4472.101/chromedriver
+2021-07-04 20:01:17,274 - Utilities.Log -INFO - Navigate to saucedemo.com 
+2021-07-04 20:01:17,619 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:17,622 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 20:01:17,623 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:17,625 - Utilities.Log -INFO - Testcase: Verify the homePage of site
+2021-07-04 20:01:17,658 - Utilities.Log -INFO - User is on the Login Page.
+2021-07-04 20:01:17,664 - Utilities.Log -INFO - Testcase Verify the homePage of site passed
+2021-07-04 20:01:18,153 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:18,154 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 20:01:18,154 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:18,156 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:18,156 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 20:01:18,157 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:18,157 - Utilities.Log -INFO - Testcase: Verify the validation message for no username input
+2021-07-04 20:01:23,179 - Utilities.Log -INFO - Entering password secret_sauce into [[ChromeDriver: chrome on MAC (073fcacb37774821e2ea225f183e647e)] -> id: password]
+2021-07-04 20:01:23,397 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (073fcacb37774821e2ea225f183e647e)] -> id: login-button]
+2021-07-04 20:01:23,553 - Utilities.Log -INFO - No Username provided error message is displayed
+2021-07-04 20:01:23,554 - Utilities.Log -INFO - Testcase Verify the validation message for no username input passed
+2021-07-04 20:01:23,929 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:23,929 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 20:01:23,929 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:23,930 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:23,930 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 20:01:23,930 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:23,930 - Utilities.Log -INFO - Testcase: Verify the validation message for no password input
+2021-07-04 20:01:28,948 - Utilities.Log -INFO - Entering username standard_user into [[ChromeDriver: chrome on MAC (073fcacb37774821e2ea225f183e647e)] -> id: user-name]
+2021-07-04 20:01:29,136 - Utilities.Log -INFO - Tap on button[[ChromeDriver: chrome on MAC (073fcacb37774821e2ea225f183e647e)] -> id: login-button]
+2021-07-04 20:01:49,475 - Utilities.Log -INFO - Testcase for Verify the validation message for no password input failed.
+2021-07-04 20:01:50,885 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:50,885 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 20:01:50,885 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:50,886 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:50,887 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 20:01:50,887 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:01:50,887 - Utilities.Log -INFO - Testcase: Verify the validation message for invalid username and password input
+2021-07-04 20:02:00,920 - Utilities.Log -INFO - Entering username dummyUser into Proxy element for: DefaultElementLocator 'By.id: user-name'
+2021-07-04 20:02:51,999 - Utilities.Log -INFO - Testcase for Verify the validation message for invalid username and password input failed.
+2021-07-04 20:02:53,453 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:02:53,453 - Utilities.Log -INFO -            TestCase Execution Completed For Tests.LoginTest
+2021-07-04 20:02:53,454 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:02:53,455 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:02:53,455 - Utilities.Log -INFO -            Testcase Execution Started For Tests.LoginTest
+2021-07-04 20:02:53,455 - Utilities.Log -INFO - ----------------------------------------------------------------
+2021-07-04 20:02:53,455 - Utilities.Log -INFO - Testcase: Verify that standard user is able to login into the site successfully
+2021-07-04 20:03:03,476 - Utilities.Log -INFO - Entering username standard_user into Proxy element for: DefaultElementLocator 'By.id: user-name'
+2021-07-04 20:03:26,216 - Utilities.Log -INFO - Testcase for Verify that standard user is able to login into the site successfully failed.

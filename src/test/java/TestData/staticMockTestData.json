@@ -1,0 +1,14 @@
+{
+  "standardUserCredential": {
+    "Username": "standard_user",
+    "Password": "secret_sauce"
+  },
+  "lockedOutUserCredential": {
+    "Username": "locked_out_user",
+    "Password":"secret_sauce"
+  },
+  "performanceGlitchUserCredential": {
+    "Username": "performance_glitch_user",
+    "Password":"secret_sauce"
+  }
+}
