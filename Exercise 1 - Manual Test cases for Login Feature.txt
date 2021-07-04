@@ -1,0 +1,407 @@
+Exercise 1 : Test cases for all the possible scenarios related to the Login Feature of https://www.saucedemo.com/
+
+
+Suite Name : SauceDemo > Login Feature
+
+
+---------------------------------------------------------------------------------------------------------------------------
+UI Test cases for the Login Feature
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #1 : Verify that all the labels and controls including text-boxes, buttons, and images are present on the Login page.
+
+
+Title : Login Page - Verify all the UI elements
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : a supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browser.
+2. Navigate to www.saucedemo.com 
+3. Verify the UI elements present on the web page.
+
+
+Expected : All the UI elements username textbox, password textbox , Login Button, Swag Login Bot image, and different user details are present on the webpage.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case# 2 : Check that the font type and size of the labels and the text written on the different elements should be clearly visible and are as per the specifications.
+
+
+Title : Login Page - Verify all the labels and texts are visible to the user.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : a supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browser.
+2. Navigate to www.saucedemo.com 
+3. Verify the size and texts of the labels and properly visible to the user.
+
+
+Expected : All the UI elements username textbox, password textbox , Login Button, Swag Login Bot image, and different user details have proper font size and are clearly visible to the user. They are as per the UI design specifications. 
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Test Case#3 : Check that the application’s UI is responsive and it should adjust to different screen resolutions and devices. 
+
+
+Title : Login Page - Verify that Login Page UI is responsive.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : multiple supported browsers are being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browser.
+2. Navigate to www.saucedemo.com 
+3. Verify that the login page is loading properly.
+4. Now open a mobile browser..
+5. Navigate to www.saucedemo.com 
+
+
+Expected : Login page should load properly and adjust to different screen resolutions and devices respectively.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------
+Functional Test cases for the Login Feature
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #1 : Verify that as soon as the login page opens, by default the cursor should remain on the username textbox.
+
+
+Title : Login Page - Verify that by default the cursor is placed on the username textbox.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browser.
+2. Navigate to www.saucedemo.com 
+3. Verify the position of the cursor as soon as the page loads.
+
+
+Expected : By default the position of the cursor should be on the username textbox, and the username textbox should be in focus.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #2 :  Verify that the user is able to navigate or access the different controls by pressing the ‘Tab’ key on the keyboard.
+
+
+Title : Login Page - Verify that user is able to navigate to different controls by pressing the tab key on keyboard
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browser.
+2. Navigate to www.saucedemo.com 
+3. Use the tab key on the keyboard to navigate on different controls on the page.
+
+
+Expected : User should be able to navigate to username, password, login button, browser url using the keyboard tab key.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #3 :  Verify that the password entered is masked when the user types in the password field.  
+
+
+Title : Login Page - Verify that the password textbox is masked when the user enters the password.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browser.
+2. Navigate to www.saucedemo.com 
+3. Provide a username in the username textbox.
+4. Click on the password field.
+5. Start typing the password value in the password field.
+
+
+Expected : Verify that the password typed is masked as the user starts typing in the password textbox.
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #4 : Verify that the password textbox allows copy paste of value or not.
+
+
+Title : Login Page - User is able to copy paste value in the password textbox or not.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browser.
+2. Navigate to www.saucedemo.com 
+3. Provide a username in the username textbox.
+4. Copy some value from clipboard using the cntrl + c key combination.
+5. Click on the password field and Click cntrl + v key combination on the keyboard.
+
+
+Expected : User should be able to copy paste value into the password field.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #5 : Verify that the user is able to login by entering valid credentials and clicking on the LOGIN button.
+
+
+Title : Login Page - User is successfully able to login using the login button on the web page.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide a valid username in the username textbox. Eg : standard_user
+3. Provide a valid password in the password textbox. Eg : secret_sauce
+4. Move hover and click the LOGIN button element on the web page.
+
+
+Expected : 
+1. Users should be able to login using the LOGIN button on the web page. 
+2. Users should land on the products page.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #6 : Verify that the user is able to login by entering valid credentials and clicking on the ENTER button on the keyboard.
+
+
+Title : Login Page - User is successfully able to login using the Enter Key on the keyboard.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide a valid username in the username textbox. Eg : standard_user
+3. Provide a valid password in the password textbox. Eg : secret_sauce
+4. Tab out of the password textbox and click the Enter key on the keyboard. 
+
+
+Expected : 
+1. Users should be able to login using the Enter key on the keyboard.
+2. Users should land on the products page.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #7 : Verify that the user is not able to login with an invalid username and password.
+
+
+Title : Login Page - User is not able to login using the incorrect username and password details.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide an invalid username in the username textbox.
+3. Provide an invalid password in the password textbox.
+4. Click on the Login button. 
+
+
+Expected :
+1.  Users should be provided with an error message “Username and password do not match any user in this service” with a reset button.
+2. The Username and Password field should get highlighted with a red color underline and an “x” icon in the textboxes.
+3. Users should not be able to login into the system.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #8 : Verify that the user is displayed with a relevant error message when the username field is left blank.
+
+
+Title : Login Page - Validation messages get displayed for blank username field.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Leave the field blank in the username textbox.
+3. Provide some value in the password textbox.
+4. Click on the Login button. 
+
+
+Expected :
+1. User should be displayed with a validation message “Username is required” with a reset button.
+2. The Username field should get highlighted with a red color underline and an “x” icon in the textboxes.
+3. Users should not be able to login into the system.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #9 : Verify that the user is displayed with a relevant error message when the password field is left blank.
+
+
+Title : Login Page - Validation messages get displayed for blank password field.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide some value in the username textbox.
+3. Leave the password textbox blank.
+4. Click on the Login button. 
+
+
+Expected :
+1. User should be displayed with a validation message “Password is required” with a reset button.
+2. The Password field should get highlighted with a red color underline and an “x” icon in the textboxes.
+3. Users should not be able to login into the system.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #10 : Verify that the reset button on the validation messages reset the username and password textboxes. 
+
+
+Title : Login Page - Validation message reset button cleans the username and password fields.
+
+
+Precondition : Website under test should be up and running.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide some invalid value in username or password textbox.
+3. Click on the Login button. 
+4. Observe that the validation message is displayed with the reset x button.
+5. Click on the reset x button.
+
+
+Expected :
+1. On clicking the reset button, it should reset the values in the username and password field.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #11 : Verify that a locked out user is not able to login the system.
+
+
+Title : Login Page - Locked User is not able to login into the system.
+
+
+Precondition : 
+1. Website under test should be up and running.
+2. A user is already locked
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide “locked_out_user” as value in the username textbox.
+3. Provide “secret_sauce” as value in the password textbox.
+4. Click on the Login button. 
+
+
+Expected :
+1. User should be displayed with an error message “Sorry, this user has been locked out.”
+2. Users should not be allowed to login into the system.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #12 : Verify that a problem user is not able to see correct information after login.
+
+
+Title : Login Page - A Problem User is not able to see correct information after login.
+
+
+Precondition : 
+1. Website under test should be up and running.
+2. A user configured with some functional problem to it’s account.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide “problem_user” as value in the username textbox.
+3. Provide “secret_sauce” as value in the password textbox.
+4. Click on the Login button. 
+5. Try to add the items into the cart.
+6. Try to remove the added item from the cart.
+
+
+Expected :
+1. User should be allowed to login into the system.
+2. On the Product page, users should only see incorrect images for all the products in the product gallery.
+3. User is not able to add all the items into the cart. Only selected items are allowed.
+4. User is not able to remove the added items into the cart.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #13 : Verify the performance degradation is observed for a performance glitch user.
+
+
+Title : Verify the performance degradation for the performance glitch user.
+
+
+Precondition : 
+1. Website under test should be up and running.
+2. A user configured with a performance degradation problem to it’s account.
+
+
+Assumption : Supported browser is being used for the test
+
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide “performance_glitch_user” as value in the username textbox.
+3. Provide “secret_sauce” as value in the password textbox.
+4. Click on the Login button. 
+
+
+Expected :
+1. Users should experience delayed logging into the system.
