@@ -1,2 +1,2 @@
 # Aequilibrium Tech Assignment
-Aequilibrium Techincal Assignment
+Aequilibrium - QA Techincal Assignment
