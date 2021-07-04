@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+.DS_Store
+.idea/vcs.xml
+ Reports/.DS_Store
