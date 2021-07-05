@@ -384,7 +384,6 @@ Expected :
 ---------------------------------------------------------------------------------------------------------------------------
 Test Case #13 : Verify the performance degradation is observed for a performance glitch user.
 
-
 Title : Verify the performance degradation for the performance glitch user.
 
 
@@ -401,6 +400,34 @@ Test Steps :
 2. Provide “performance_glitch_user” as value in the username textbox.
 3. Provide “secret_sauce” as value in the password textbox.
 4. Click on the Login button. 
+
+
+Expected :
+1. Users should experience delayed logging into the system.
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #13 : After logout if user clicks on back button user should not be able to login within same session, it should redirect to login page
+
+Title : Verify the user is not allowed to access website once user is logged out.
+
+Precondition : 
+1. Website under test should be up and running.
+
+Assumption : Supported browser is being used for the test
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide “standard_user” as value in the username textbox.
+3. Provide “secret_sauce” as value in the password textbox.
+4. Click on the Login button.
+5. Verify the user is landing on the homepage of site.
+6. Now click the back button beside the address bar in the browser
+7. Verify user is on the login page of the site now.
+8. Now try to access the landing page again using the forward button in the browser.
+
+Expected :
+1. User should be logged out of the website on clicking the back button.
+2. User should not be allowed to access the landing page again by clicking forward button.
 
 
 Expected :
