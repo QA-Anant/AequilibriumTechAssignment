@@ -52,44 +52,34 @@ public class LoginPage extends TestSetup {
     }
 
     public void verifyUserNameValidationMessage(String message) {
-        TestUtils.waitTillElementIsDisplayed(errorMessageLbl,10);
         TestUtils.textVerification(errorMessageLbl,message);
         TestUtils.clickOnElement(resetBtn,"Reset Button");
-        TestUtils.clearText(username,"Username");
-        TestUtils.clearText(password,"password");
+        clearForm();
     }
 
     public void verifyPasswordValidationMessage(String message) {
-        TestUtils.waitTillElementIsDisplayed(errorMessageLbl,10);
         TestUtils.textVerification(errorMessageLbl,message);
         TestUtils.clickOnElement(resetBtn,"Reset Button");
-        TestUtils.clearText(username,"Username");
-        TestUtils.clearText(password,"password");
+        clearForm();
     }
 
     public void verifyInvalidUsernameAndPasswordValidationMessage(String message){
-        TestUtils.waitTillElementIsDisplayed(errorMessageLbl,10);
         TestUtils.textVerification(errorMessageLbl,message);
         TestUtils.clickOnElement(resetBtn,"Reset Button");
-        TestUtils.clearText(username,"Username");
-        TestUtils.clearText(password,"password");
+        clearForm();
     }
 
     public void verifyStandardUserLogin() {
-            TestUtils.isElementPresent(landingPageTitle,5);
             TestUtils.textVerification(landingPageTitle,"PRODUCTS");
             TestUtils.clickOnElement(menuBtn,"Menu Button");
-            TestUtils.waitTillElementIsDisplayed(logOutBtn, 10);
             TestUtils.clickOnElement(logOutBtn,"Logout Button");
             verifyLoginPage();
     }
 
     public void verifyLockedOutUserLogin(String message) {
-        TestUtils.waitTillElementIsDisplayed(errorMessageLbl,10);
         TestUtils.textVerification(errorMessageLbl,message);
         TestUtils.clickOnElement(resetBtn,"Reset Button");
-        TestUtils.clearText(username,"Username");
-        TestUtils.clearText(password,"password");
+        clearForm();
     }
 
     public void verifyLoginPage() {
@@ -108,5 +98,10 @@ public class LoginPage extends TestSetup {
 
     public void verifyPerformanceDegrade() {
         TestUtils.waitTillElementIsDisplayed(landingPageTitle,10);
+    }
+
+    public void clearForm(){
+        TestUtils.clearText(username,"Username");
+        TestUtils.clearText(password,"password");
     }
 }

@@ -18,15 +18,33 @@ import static TestSetup.TestSetup.webDriver;
 
 public class TestUtils {
 
+    /**
+     * Explict wait till element is visible on the screen
+     *
+     * @param element
+     * @param time
+     */
     public static void waitTillElementIsDisplayed(WebElement element, int time) {
             WebDriverWait wait = new WebDriverWait(webDriver, time);
             wait.until(ExpectedConditions.visibilityOf(element));
     }
 
+    /**
+     * Implicit wait
+     *
+     * @param timeout
+     */
     public static void implicitWait(int timeout) {
             webDriver.manage().timeouts().implicitlyWait(timeout, TimeUnit.SECONDS);
     }
 
+    /**
+     * Return boolean value for element's visibilty on the screen
+     *
+     * @param element
+     * @param time
+     * @return
+     */
     public static boolean isElementPresent(WebElement element, int time) {
         try {
             waitTillElementIsDisplayed(element, time);
@@ -37,10 +55,22 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Add Screenshot in Report
+     *
+     * @param path
+     * @return Screenshot from path
+     */
     public static Media addScreenshotInReport(String path) {
         return MediaEntityBuilder.createScreenCaptureFromPath("." + path).build();
     }
 
+    /**
+     * Click on element
+     *
+     * @param element
+     * @param buttonName
+     */
     public static void clickOnElement(WebElement element, String buttonName) {
         waitTillElementIsDisplayed(element, 20);
         try {
@@ -54,6 +84,13 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Clear Textfield
+     *
+     * @param element
+     * @param fieldName
+     */
+
     public static void clearText(WebElement element, String fieldName) {
         try {
             Log.info("Clearing text from " + fieldName);
@@ -65,6 +102,13 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Clear Textfield and enter text
+     *
+     * @param element
+     * @param textToEnter
+     * @param fieldName
+     */
     public static void clearAndEnterText(WebElement element, String textToEnter, String fieldName) {
         try {
             Log.info("Clearing text from " + fieldName);
@@ -79,6 +123,12 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Verify the text on element
+     *
+     * @param element
+     * @param expectedText
+     */
     public static void textVerification(WebElement element, String expectedText) {
         waitTillElementIsDisplayed(element, 20);
         try {
@@ -100,6 +150,11 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Capture Screenshot inside Reports/Screenshot folder
+     *
+     * @return Screenshot path
+     */
     public static String captureScreenshot() {
 
         TakesScreenshot ts = null;
@@ -117,10 +172,24 @@ public class TestUtils {
         return path;
     }
 
+    /**
+     * Get value from Testdata Json file , available in Testdata folder
+     *
+     * @param key
+     * @return
+     * @throws IOException
+     */
     public static String getValueFromJson(String key) throws IOException {
         return com.jayway.jsonpath.JsonPath.read(TestSetup.TestSetup.jsonTestData, "$." + key);
     }
 
+    /**
+     * Get value from Expected Result Json file , available in Testdata folder
+     *
+     * @param key
+     * @return
+     * @throws IOException
+     */
     public static String getMessagesFromJson(String key) throws IOException {
         return com.jayway.jsonpath.JsonPath.read(TestSetup.TestSetup.jsonExpectedResults, "$." + key);
     }

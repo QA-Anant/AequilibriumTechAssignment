@@ -28,6 +28,7 @@ public class LoginTest extends TestSetup {
 
     @Test(description = "Verify the validation message for no password input", enabled = true, priority = 3)
     public void verifyNoPasswordInput() throws IOException {
+        webDriver.navigate().refresh();
         loginPage.setUsername("someRandomValue");
         loginPage.setPassword("");
         loginPage.clickLoginBtn();
