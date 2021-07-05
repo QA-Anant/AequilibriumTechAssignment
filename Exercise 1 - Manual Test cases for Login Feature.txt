@@ -428,7 +428,3 @@ Test Steps :
 Expected :
 1. User should be logged out of the website on clicking the back button.
 2. User should not be allowed to access the landing page again by clicking forward button.
-
-
-Expected :
-1. Users should experience delayed logging into the system.
