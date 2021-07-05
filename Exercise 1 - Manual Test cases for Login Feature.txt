@@ -428,3 +428,25 @@ Test Steps :
 Expected :
 1. User should be logged out of the website on clicking the back button.
 2. User should not be allowed to access the landing page again by clicking forward button.
+
+---------------------------------------------------------------------------------------------------------------------------
+Test Case #14 : Reset button should clear data from all the text boxes in the form.
+
+Title : Verify that Reset button clears data from all the text boxes in the form.
+
+Precondition : 
+1. Website under test should be up and running.
+
+Assumption : Supported browser is being used for the test
+
+Test Steps :
+1. Open a chrome/firefox browse and navigate to www.saucedemo.com 
+2. Provide “lockedout_user” as value in the username textbox.
+3. Provide “secret_sauce” as value in the password textbox.
+4. Click on the Login button.
+5. Verify that user is provided with the validation message with reset button and the textboxes gets highlighted with red color.
+6. Click on the reset button in the validation message.
+
+Expected :
+1. The textboxes should get cleared and values should also get reset.
+2. The validation message should also get disappear.
